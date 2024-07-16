@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\bin\Debug\net8.0\StudentManagement.Persistence.deps.json
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\bin\Debug\net8.0\StudentManagement.Persistence.dll
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\bin\Debug\net8.0\StudentManagement.Persistence.pdb
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\bin\Debug\net8.0\StudentManagement.Domain.dll
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\bin\Debug\net8.0\StudentManagement.Domain.pdb
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.AssemblyInfo.cs
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\obj\Debug\net8.0\StudentM.D121EC53.Up2Date
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.dll
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\obj\Debug\net8.0\refint\StudentManagement.Persistence.dll
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.pdb
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Persistence\obj\Debug\net8.0\ref\StudentManagement.Persistence.dll

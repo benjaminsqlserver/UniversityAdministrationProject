@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Infrastructure.deps.json
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Infrastructure.dll
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Infrastructure.pdb
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Domain.dll
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Domain.pdb
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentM.54534901.Up2Date
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.dll
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\obj\Debug\net8.0\refint\StudentManagement.Infrastructure.dll
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.pdb
+C:\Users\user\Downloads\WorkingFolder\UniversityPortalBook\UniversityAdministrationProject\StudentManagement.Infrastructure\obj\Debug\net8.0\ref\StudentManagement.Infrastructure.dll
